@@ -1,0 +1,24 @@
+/*
+Madison Hildreth
+Due Date
+Project name and description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+    background-color: darkgray;
+}
+#jacksonFig{float:left;}
+
+#warning{width:800px; height:300px}
+
+#alonzo{width:200px; height:300px;}
+#Jackson {width: 200px; height: 300px;}
+#gang{width: 400px; height: 300}
